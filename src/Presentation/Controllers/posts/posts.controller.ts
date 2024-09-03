@@ -1,4 +1,4 @@
-import { PostsService } from './../../Application/services/posts/posts.service';
+import { PostsService } from '../../../Application/services/posts/posts.service';
 import { Controller, Get, Param } from '@nestjs/common';
 import { ApiTags } from '@nestjs/swagger';
 
